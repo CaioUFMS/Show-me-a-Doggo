@@ -1,0 +1,14 @@
+.button {
+    background-color: transparent;
+    font-weight: bold;
+  }
+  
+  .colors {
+    background-color: #08013f;
+    border-color:  #00025c;
+    color: rgb(255, 255, 255);
+  }
+  
+  .rounded{
+    border-radius: 5px;
+  }
